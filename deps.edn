@@ -1,0 +1,2 @@
+{:paths ["src"]
+ :deps  {overtone/overtone {:mvn/version "0.16.3331"}}}
